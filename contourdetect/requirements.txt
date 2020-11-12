@@ -1,0 +1,4 @@
+numpy==1.18.3
+opencv-python==4.2.0.34
+pathlib==1.0.1
+Pillow==7.1.2
