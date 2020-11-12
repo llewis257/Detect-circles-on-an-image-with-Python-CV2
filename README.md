@@ -1,1 +1,1 @@
-# Detect-circles-on-an-image-with-Python-CV2
+# Detect-circles-on-an-image-with-Python-openCV
